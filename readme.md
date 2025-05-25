@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview & Results
 
-To deepen my understanding of reinforcement learning, I implemented and compared multiple RL algorithms to solve the "Frozen Lake" environment from [Gymnasium](https://gymnasium.farama.org/environments/toy_text/frozen_lake/#description). This project was done to implement something with the theoretical skills i have obtained within reinforcement learning, and also because it was quite fun🥸
+To deepen my understanding of reinforcement learning, I implemented and compared some RL algorithms from scratch to solve the "Frozen Lake" environment from [Gymnasium](https://gymnasium.farama.org/environments/toy_text/frozen_lake/#description). This project was done to implement something with the theoretical skills i have obtained within reinforcement learning at UiO, and also because it was quite fun🥸
 
 **Key Results:**
 - 🤖 **Q-learning from scratch**: Built complete RL methids without external libraries
